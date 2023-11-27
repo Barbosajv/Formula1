@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+}
+
+header img{
+    width: 4vw;
+    height: 10vh;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+main{
+    display: flex;
+}
+
+.line{
+    height: 78vh;
+    background-color: black;
+    width: 2px;
+    margin-left: 58px;
+    margin-top: 15px;
+}
+
+figure img.car{
+    width: 50vw;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+footer img{
+    width: 40px;
+    margin-left: 20px;
+}
+
+footer{
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
