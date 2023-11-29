@@ -96,7 +96,7 @@ header img{
     .primeira-parte img{
         width: 50%;
         position: relative;
-        bottom: -465px;
+        bottom: -105px;
         margin-left: 10%;
     }
 
@@ -106,7 +106,7 @@ header img{
         justify-content: end;
         color: white;
         position: relative;
-        bottom: 500px;
+        bottom: 650px;
         margin-right: 20%;
         font-size: 33px;
     }
@@ -117,7 +117,7 @@ header img{
         color: white;
         background-color: #6e0c1b;
         position: absolute;
-        bottom: 988px;
+        bottom: 588px;
         left: 57%;
         border: none;
         cursor: pointer;
@@ -165,7 +165,7 @@ header img{
     .primeira-parte img{
         width: 50%;
         position: relative;
-        bottom: -675px;
+        bottom: -195px;
         margin-left: 10%;
     }
 
@@ -175,7 +175,7 @@ header img{
         justify-content: end;
         color: white;
         position: relative;
-        bottom: 300px;
+        bottom: 400px;
         margin-right: 20%;
         font-size: 33px;
     }
@@ -186,7 +186,7 @@ header img{
         color: white;
         background-color: #6e0c1b;
         position: absolute;
-        bottom: 988px;
+        bottom: 400px;
         left: 40%;
         border: none;
         cursor: pointer;
@@ -214,9 +214,9 @@ header img{
     }
 
     .primeira-parte img{
-        width: 80%;
+        width: 50%;
         position: relative;
-        bottom: -755px;
+        bottom: -400px;
         margin-left: 10%;
     }
 
@@ -237,7 +237,7 @@ header img{
         color: white;
         background-color: #6e0c1b;
         position: absolute;
-        bottom: 750px;
+        bottom: 250px;
         left: 39%;
         border: none;
         cursor: pointer;
@@ -261,9 +261,9 @@ header img{
         width: 20%;
     }
     .primeira-parte img{
-        width: 80%;
+        width: 50%;
         position: relative;
-        bottom: -800px;
+        bottom: -400px;
         margin-left: 10%;
     }
 
@@ -284,7 +284,7 @@ header img{
         color: white;
         background-color: #6e0c1b;
         position: absolute;
-        bottom: 788px;
+        bottom: 170px;
         left: 34%;
         border: none;
         cursor: pointer;
@@ -324,10 +324,10 @@ header img{
         width: 40%;
     }
     .primeira-parte img{
-        width: 80%;
+        width: 50%;
         position: relative;
-        bottom: -970px;
-        margin-left: 8%;
+        bottom: -470px;
+        margin-left: 22%;
     }
 
     .primeira-parte p{
@@ -338,7 +338,7 @@ header img{
         position: relative;
         bottom: 50px;
         margin-right: 1%;
-        font-size: 33px;
+        font-size: 27px;
     }
     
     .primeira-parte button{
@@ -408,7 +408,7 @@ header img{
         width: 40%;
     }
     .primeira-parte img{
-        width: 80%;
+        width: 50%;
         position: relative;
         bottom: -880px;
         margin-left: 10%;
@@ -426,7 +426,7 @@ header img{
     }
     
     .primeira-parte button{
-        width: 250px;
+        width: 100px;
         height: 80px;
         color: white;
         background-color: #6e0c1b;
