@@ -79,7 +79,7 @@ aside{
     margin-left: 50%;
 }
 
-@media(min-width: 1921px)-(max-width: 2560px){
+@media(min-width: 1921px) and (max-width: 2560px){
     .first img{
         width: 80%;
         position: relative;
