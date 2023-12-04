@@ -1,0 +1,33 @@
+Roteiro de Estudos para a prova de JavaScript
+
+Estudar os tópicos abaixo:
+
+
+O que é uma variável em JavaScript?
+
+
+Como declarar uma variável em JavaScript?
+
+
+O que é um array em JavaScript?
+
+
+Qual é a diferença entre == e === em JavaScript?
+
+
+Como exibir uma mensagem no console do navegador em JavaScript?
+
+
+Qual das alternativas abaixo é uma boa prática recomendada ao nomear variáveis em JavaScript?
+
+
+Qual método é usado para exibir uma caixa de diálogo de alerta em JavaScript?
+
+
+O que é uma função em JavaScript?
+
+
+Qual função exibe uma mensagem no corpo do navegador (na página) em JavaScript?
+
+
+Qual é a diferença de usar a declaração let em vez de var em JavaScript?
